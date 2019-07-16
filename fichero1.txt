@@ -7,3 +7,5 @@ Cambios 2
 Esto es un hotfix
 
 commit 1 fastforward
+
+commit 2 fastforward
