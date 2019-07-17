@@ -13,3 +13,5 @@ commit 2 fastforward
 Caracteristica 3
 
 Caracteristica 3-2
+
+Cambio en Local
